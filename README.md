@@ -2,7 +2,7 @@
 (для локального IP VPS)
 
 🔹 Быстрый запуск
-bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/acme-yg/main/acme.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/MyNicknme/Acme/refs/heads/main/Acme-yonggekkk.sh)
 
 📌 Функции и особенности
 Поддержка VPS:
